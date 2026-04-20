@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: plato-tile-ranker
+Version: 0.1.0
+Summary: Multi-signal tile ranking with keyword gating and deadband boost
+License: MIT
+Requires-Python: >=3.8
